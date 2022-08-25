@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Germiniku</h1>
 
-- 🌱 I’m currently learning **rust**
 
 - 💬 Ask me about **react,go**
 
